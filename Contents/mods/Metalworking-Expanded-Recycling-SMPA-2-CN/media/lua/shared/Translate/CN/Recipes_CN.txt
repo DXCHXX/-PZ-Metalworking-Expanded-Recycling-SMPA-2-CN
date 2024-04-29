@@ -1,0 +1,16 @@
+Recipes_CN = {
+    Recipe_Dismantle_Unusable_Metal = "拆解无用金属碎片",
+    Recipe_Dismantle_Empty_Tin_Can = "拆解空锡罐",
+	Recipe_Dismantle_Empty_Beer_Can = "拆解空啤酒罐",
+	Recipe_Dismantle_Empty_Pop_Can = "拆解空汽水罐",
+	Recipe_Dismantle_Small_Sheet_Metal = "拆解小金属片",
+	Recipe_Dismantle_Metal_Sheet = "拆解金属板",
+	Recipe_Dismantle_Metal_Bar = "拆解金属条",
+	Recipe_Dismantle_Metal_Pipe = "拆解金属管",
+	Recipe_Make_Small_Metal_Sheet = "制作小金属片",
+	Recipe_Make_Sheet_Metal = "制作金属板",
+	Recipe_Make_Metal_Bar = "制作金属条",
+	Recipe_Make_Metal_Pipe = "制作金属管",
+	Recipe_Make_Jar_Lid = "制作罐头盖",
+	Recipe_Dismantle_other_objects = "拆解其他物件",	
+}
