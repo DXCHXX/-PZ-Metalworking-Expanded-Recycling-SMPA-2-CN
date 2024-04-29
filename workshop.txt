@@ -1,9 +1,10 @@
 version=1
+id=3235271940
 title=Metalworking-Expanded-Recycling-SMPA-2-CN
 description=Project Zomboid mod Metalworking Expanded (+Recycling) + Snake's Mod Pack_Addon 汉化
 description=
 description=本项目语言文本翻译使用大语言模型翻译。
 description=
 description=汉化mod地址订阅地址：https://steamcommunity.com/sharedfiles/filedetails/?id=2843475785
-tags=
+tags=Build 41;Language/Translation
 visibility=public
